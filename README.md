@@ -38,59 +38,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 2. Abra o projeto no Android Studio.
 3. Compile e execute o projeto em um emulador ou dispositivo físico.
 
-## 📂 Estrutura do Projeto
 
-```bash
-├── app
-
-
-│   ├── src
-
-
-│   │   ├── main
-
-
-│   │   │   ├──
-java/com/example/imccalculator
-
-
-│   │   │  
-│   ├── MainActivity.java      
-# Atividade principal com cálculo do IMC
-
-
-│   │   │   ├──
-res
-
-
-│   │   │  
-│   ├── layout
-
-
-│   │   │  
-│   │   ├── activity_main.xml   #
-Layout da tela principal
-
-
-│   │   │  
-│   └── values
-
-
-│   │   │  
-│       ├──
-strings.xml         # Strings usadas no
-app
-
-
-│   │   │  
-│       ├── colors.xml          # Cores definidas no projeto
-
-
-│   └── build.gradle                        # Configuração do
-Gradle
-
-
-└── README.md                               # Este arquivo
 
  
 ## 🎨 Design e Prototipagem
