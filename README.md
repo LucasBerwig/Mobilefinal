@@ -12,8 +12,7 @@ dados por Km/h, com opções de estar correndo ou não.
 ## 🔧 Funcionalidades da Calculadora de Potencia: 
 
 - [x] Tela principal (tela com opções);
-- [x] Tela de visualização de dados;
-- [x] Tela de cadastro. 
+
 
 
 ## 🚀 Tecnologias Utilizadas
