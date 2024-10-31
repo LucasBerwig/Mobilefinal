@@ -6,7 +6,8 @@
 ## 📱 Descrição
 
 Uma interface que é possivel calcular a distancia de passos
-dados por Km/h, com opções de estar correndo ou não.
+dados por Km/h, com opções de passos curtos longos e medios
+e se esta de estar correndo ou não.
 
 
 ## 🔧 Funcionalidades da Calculadora de Potencia: 
@@ -36,8 +37,33 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 2. Abra o projeto no Android Studio.
 3. Compile e execute o projeto em um emulador ou dispositivo físico.
+  
+## 📂 Estrutura do Projeto
 
-
+```bash
+├── app
+│   ├── src
+│   │   ├── main
+│   │   │   ├──
+java/com/example/appfinal
+│   │   │  
+│   ├── MainActivity
+│   │   │   ├──
+res
+│   │   │  
+│   ├── layout
+│   │   │
+│   │   ├── activity_main.xml
+│   │   │  
+│   └── values
+│   │   │  
+│       ├──
+strings.xml       
+│   │   │  
+│       ├── colors.xml          # Cores definidas no projeto
+│   └── build.gradle                        # Configuração do
+Gradle
+└── README.md                               # Este arquivo
 
  
 ## 🎨 Design e Prototipagem
@@ -50,3 +76,5 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 ## 👨‍💻 Desenvolvedores –
 
 Lucas Berwig - Desenvolvedor - [GitHub]((https://github.com/LucasBerwig)
+
+ ## 📄 Licença
